@@ -34,3 +34,6 @@ Profit Analysis
 Regional Performance
 Category-wise Analysis
 Customer Segment Insights
+
+
+<img width="790" height="456" alt="image" src="https://github.com/user-attachments/assets/5d713942-ba15-4893-ad9a-e5f716dbf300" />
