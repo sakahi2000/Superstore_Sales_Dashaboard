@@ -37,3 +37,10 @@ Customer Segment Insights
 
 
 <img width="790" height="456" alt="image" src="https://github.com/user-attachments/assets/5d713942-ba15-4893-ad9a-e5f716dbf300" />
+
+
+
+
+
+<img width="779" height="441" alt="image" src="https://github.com/user-attachments/assets/b5500c1d-00cc-4bf7-a6f6-05111558a923" />
+
